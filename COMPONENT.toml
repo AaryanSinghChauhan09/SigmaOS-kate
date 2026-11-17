@@ -3,7 +3,7 @@ name = "SigmaOS-kate"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kate component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
